@@ -1,11 +1,8 @@
 from .models import Employee
 from .serializers import EmployeeSerializer
-
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework import status
-
-
 import face_recognition
 import json
 import numpy as np
