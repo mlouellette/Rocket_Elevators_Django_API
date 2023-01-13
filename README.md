@@ -8,7 +8,7 @@ This application uses Python's DJANGO framework and REST API to make requests. I
 
 ## Url samples 
 
-You can test different scenarios on the interface of your choice
+You can test different scenario's on the interface of your choice
 I recommend using POSTMAN : https://www.postman.com/downloads/
 
 - POST : http://127.0.0.1:8000/employees
