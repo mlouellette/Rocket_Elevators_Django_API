@@ -1,8 +1,6 @@
 # Rocket_Elevators_Django_API
 
-This application contains api requests using Python's DJANGO framework and REST. Its Using the facial recognition library so
-you can register an employee to your database or look to see if an employee exists in the database using a picture, if that employee
-exists it will return the employee's credentials.
+This application uses Python's DJANGO framework and REST API to make requests. It's using the facial recognition open source library to allow for registering employees to a database or searching for an employee by using a picture. If the employee is found, their credentials will be returned.
 
 ## Usage
 
