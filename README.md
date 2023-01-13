@@ -18,6 +18,9 @@ I recommend using POSTMAN : https://www.postman.com/downloads/
 - GET : http://127.0.0.1:8000/employees/recognize
 - GET : http://127.0.0.1:8000/employees/1
 
+## Facial Recognition library 
+
+- https://github.com/ageitgey/face_recognition
 
 ## Presentation video
 
